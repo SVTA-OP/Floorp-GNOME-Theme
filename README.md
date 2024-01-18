@@ -1,4 +1,4 @@
-# GNOME-Theme
+# Floorp-GNOME-Theme
 Bridges support from Firefox-gnome-theme
 
 ## Repos Used:  
