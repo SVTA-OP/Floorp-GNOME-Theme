@@ -1,5 +1,5 @@
 # Floorp-GNOME-Theme
-Bridges support from Firefox-gnome-theme
+Bridges support from Firefox-gnome-theme onto Floorp.
 
 ## Repos Used:  
 * [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) or [WhiteSur-Firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme)
