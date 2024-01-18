@@ -25,5 +25,5 @@ All Code used is from their respective repos. I have not changed anything.
   * Open `Userchrome.css` (assuming you overwrote the file) and add `@import "firefox-gnome-theme/userChrome.css";`.
   * Remember to take line 6 and comment it, `/*@import "WhiteSur/theme.css"; /**/`
   * Now you can go through the file and uncomment whatever option you would like.
-  * Close the file and restart floorp.
+  * Close the file and restart floorp. Make sure that `toolkit.legacyUserProfileCustomizations.script` is set to `true`
 
