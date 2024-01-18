@@ -10,7 +10,7 @@ All Code used is from their respective repos. I have not changed anything.
 
 ## Output:  
 
-![image](https://github.com/SVTA-OP/GNOME-Theme/assets/126323835/eba455e1-a6e1-41f7-84a3-18fd9c7bb7c0)
+![image](https://github.com/SVTA-OP/Floorp-GNOME-Theme/assets/126323835/fb735cad-1bf4-4ba2-8ce7-1c286e208cb9)
 
 ## Tutorial:  
 
